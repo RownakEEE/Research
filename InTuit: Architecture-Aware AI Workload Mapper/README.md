@@ -25,7 +25,7 @@ The research spans workload decomposition, convolution mapping, spatial and temp
 | **Paper 1** | Hardware-Aware Data and Instruction Mapping for AI Tasks: Balancing Parallelism, I/O and Memory Tradeoffs | [**Paper ↗**](https://arxiv.org/abs/2509.03846) |
 | **Paper 2** | Demystifying the 7-D Convolution Loop Nest for Data and Instruction Streaming in Reconfigurable AI Accelerators | [**Paper ↗**](https://arxiv.org/abs/2507.20420) |
 | **Paper 3** | InTuit: A Novel Algorithmic Approach for Neural Network Mapping onto a Data and Instruction Streamable AI Accelerator | **In Progress** |
-| **Paper 4** | Memory-Aware Scheduling of AI Workloads on a Messaging-Based Vector Processing Unit | **Under Review ** |
+| **Paper 4** | Memory-Aware Scheduling of AI Workloads on a Messaging-Based Vector Processing Unit | **Under Review** |
 
 ## Code
 
