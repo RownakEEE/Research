@@ -47,5 +47,4 @@ The MAVeC research implementation is organized into separate hardware-design, wo
 
 ## Keywords
 
-`Computer Architecture` `AI Accelerators` `Message-Driven Computing`  `Reconfigurable Computing` `Hardware–Software Co-design` `Dataflow Architecture`  
-`Mapping & Scheduling` `Memory Hierarchy` `Performance Modeling` `FPGA/ASIC`
+`Computer Architecture` `AI Accelerators` `Message-Driven Computing`  `Reconfigurable Computing` `Hardware–Software Co-design` `Dataflow Architecture` `Mapping & Scheduling` `Memory Hierarchy` `Performance Modeling` `FPGA/ASIC`
