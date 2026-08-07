@@ -1,8 +1,6 @@
 # FPGA ECC Crypto Engine
 
-**FPGA ECC Crypto Engine** explores hardware acceleration techniques for Elliptic Curve Cryptography (ECC), focusing on efficient modular arithmetic and elliptic-curve point operations. The work targets **256-bit prime-field arithmetic** and FPGA-based implementations for improving the performance and hardware efficiency of cryptographic computation.
-
-The research spans **modular arithmetic architectures, Booth-based multiplication, modular reduction, unified point operations, and FPGA implementation of Twisted Edwards Curve Cryptography**.
+**FPGA ECC Crypto Engine** explores hardware acceleration techniques for Elliptic Curve Cryptography (ECC), focusing on efficient modular arithmetic and elliptic-curve point operations. The work targets **256-bit prime-field arithmetic** and FPGA-based implementations for improving the performance and hardware efficiency of cryptographic computation. The research spans **modular arithmetic architectures, Booth-based multiplication, modular reduction, unified point operations, and FPGA implementation of Twisted Edwards Curve Cryptography**.
 
 ---
 
@@ -18,9 +16,7 @@ The research spans **modular arithmetic architectures, Booth-based multiplicatio
 
 ## Tools & Technologies
 
-`Verilog` `FPGA` `Xilinx ISE` `ModelSim` `ISim` `Maple`  
-`Digital Design` `Cryptographic Hardware` `Modular Arithmetic`  
-`ECC Hardware Acceleration`
+`Verilog` `FPGA` `Xilinx ISE` `ModelSim` `ISim` `Maple` `Digital Design` `Cryptographic Hardware` `Modular Arithmetic` `ECC Hardware Acceleration`
 
 ---
 
@@ -44,6 +40,4 @@ The HDL implementations, verification resources, and FPGA design files associate
 
 ## Keywords
 
-`Elliptic Curve Cryptography` `FPGA` `Cryptographic Hardware`  
-`Modular Arithmetic` `Booth Radix-4` `Twisted Edwards Curve`  
-`Hardware Acceleration` `Digital Design`
+`Elliptic Curve Cryptography` `FPGA` `Cryptographic Hardware` `Modular Arithmetic` `Booth Radix-4` `Twisted Edwards Curve` `Hardware Acceleration` `Digital Design`
