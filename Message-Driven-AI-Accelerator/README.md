@@ -1,8 +1,6 @@
 # MAVeC: Message-Driven AI Accelerator
 
-**MAVeC (Messaging-based Adaptive Vector Computing)** is a programmable accelerator architecture designed for AI and data-intensive workloads. Instead of relying on centralized scheduling or rigid dataflows, MAVeC uses distributed compute elements and self-propagating messages that carry both data and control information, enabling computation, communication, and routing to be orchestrated directly within the hardware fabric.
-
-The research spans **accelerator architecture, message-driven execution, workload mapping, hierarchical memory organization, data orchestration, and hardware-aware performance modeling** for matrix operations, convolutional neural networks, and data-intensive workloads.
+**MAVeC (Messaging-based Adaptive Vector Computing)** is a programmable accelerator architecture designed for AI and data-intensive workloads. Instead of relying on centralized scheduling or rigid dataflows, MAVeC uses distributed compute elements and self-propagating messages that carry both data and control information, enabling computation, communication, and routing to be orchestrated directly within the hardware fabric. The research spans **accelerator architecture, message-driven execution, workload mapping, hierarchical memory organization, data orchestration, and hardware-aware performance modeling** for matrix operations, convolutional neural networks, and data-intensive workloads.
 
 ---
 
@@ -19,8 +17,7 @@ The research spans **accelerator architecture, message-driven execution, workloa
 
 ## Tools & Technologies
 
-`Python` `Verilog` `RTL Design` `Xilinx Vivado` `Cadence EDA`  
-`ASIC Design` `TSMC 28 nm` `Performance Modeling` `AI Workload Mapping`
+`Python` `Verilog` `RTL Design` `Xilinx Vivado` `Cadence EDA` `ASIC Design` `TSMC 28 nm` `Performance Modeling` `AI Workload Mapping`
 
 ---
 
@@ -51,6 +48,5 @@ The MAVeC research implementation is organized into separate hardware-design, wo
 
 ## Keywords
 
-`Computer Architecture` `AI Accelerators` `Message-Driven Computing`  
-`Reconfigurable Computing` `Hardware–Software Co-design` `Dataflow Architecture`  
+`Computer Architecture` `AI Accelerators` `Message-Driven Computing`  `Reconfigurable Computing` `Hardware–Software Co-design` `Dataflow Architecture`  
 `Mapping & Scheduling` `Memory Hierarchy` `Performance Modeling` `FPGA/ASIC`
