@@ -1,25 +1,27 @@
-# MAVeC: Message-Driven AI Accelerator
+# InTuiT: Architecture-Aware AI Workload Mapper
 
-**MAVeC (Messaging-based Adaptive Vector Computing)** is a programmable accelerator architecture designed for AI and data-intensive workloads. Instead of relying on centralized scheduling or rigid dataflows, MAVeC uses distributed compute elements and self-propagating messages that carry both data and control information.
+**InTuiT** is an architecture-aware mapping, scheduling, and performance evaluation framework for neural-network workloads targeting spatial AI accelerators. The framework translates workload characteristics and hardware constraints into executable mapping strategies for efficient utilization of accelerator resources.
 
-This enables **computation, communication, and routing** to be orchestrated directly within the hardware fabric. The research spans **accelerator architecture, message-driven execution, workload mapping, hierarchical memory organization, data orchestration, and hardware-aware performance modeling** for matrix operations, convolutional neural networks, and data-intensive workloads.
+The research spans **workload decomposition, convolution mapping, spatial and temporal scheduling, memory-aware execution, analytical performance modeling, and systematic profiling** of AI accelerator architectures.
 
 ---
 
 ## Research Highlights
 
-- **Message-Driven Architecture** — Distributed execution model where messages encode operands, operations, and destinations for runtime-programmable computation.
-- **AI Workload Execution** — Mapping and execution strategies for matrix operations and convolution using spatial data movement, reuse, and pipelined execution.
-- **Memory & Data Orchestration** — Hierarchical memory organization and data orchestration for improving locality, reuse, and parallelism.
-- **Performance Modeling** — Analytical modeling of utilization, latency, throughput, data movement, and hardware-resource scaling.
-- **Hardware Evaluation** — RTL simulation and ASIC-oriented evaluation of the architecture.
-- **Applications** — Evaluation across matrix operations, CNN workloads, and PageRank-based protein-network analysis.
+- **Architecture-Aware Mapping** — Maps neural-network workloads according to configurable accelerator dimensions, compute resources, and architectural constraints.
+- **Convolution Mapping** — Specialized mapping strategies for pointwise, depthwise, and standard convolution operations.
+- **Mapping & Scheduling** — Spatial and temporal workload organization for efficient execution and resource utilization.
+- **Memory-Aware Execution** — Models data placement, reuse, movement, and memory constraints during workload execution.
+- **Performance Profiling** — Analytical evaluation of utilization, execution cycles, communication, data movement, and hardware-resource requirements.
+- **Design-Space Analysis** — Supports sensitivity and scalability studies across workload and accelerator configurations.
 
 ---
 
 ## Tools & Technologies
 
-`Python` `Verilog` `RTL Design` `Xilinx Vivado` `Cadence EDA` `ASIC Design` `TSMC 28 nm` `Performance Modeling` `AI Workload Mapping`
+`Python` `NumPy` `AI Workload Mapping` `CNN Inference`  
+`Performance Modeling` `Mapping & Scheduling` `Memory Modeling`  
+`Design-Space Exploration` `Hardware–Software Co-design`
 
 ---
 
@@ -27,20 +29,21 @@ This enables **computation, communication, and routing** to be orchestrated dire
 
 | # | Publication | Link |
 |:--:|---|:--:|
-| **1** | **Messaging-based Adaptive Vector Computing (MAVeC) Accelerator for AI Workloads** | [Paper ↗](https://arxiv.org/pdf/2410.09961) |
-| **2** | **Implications of Memory Embedding and Hierarchy on the Performance of MAVeC AI Accelerators** | [Paper ↗](https://doi.org/10.1016/j.memori.2025.100131) |
-| **3** | **Accelerating PageRank Algorithmic Tasks with a New Programmable Hardware Architecture** | [Paper ↗](https://doi.org/10.1109/ICRC64395.2024.10937012) |
+| **1** | **Hardware-Aware Data and Instruction Mapping for AI Tasks: Balancing Parallelism, I/O and Memory Tradeoffs** | [Paper ↗](https://arxiv.org/abs/2509.03846) |
+| **2** | **Demystifying the 7-D Convolution Loop Nest for Data and Instruction Streaming in Reconfigurable AI Accelerators** | [Paper ↗](https://arxiv.org/abs/2507.20420) |
+| **3** | **InTuiT: A Novel Algorithmic Approach for Neural Network Mapping onto a Data and Instruction Streamable AI Accelerator** | *In Progress* |
+| **4** | **Memory-Aware Scheduling of AI Workloads on a Messaging-Based Vector Processing Unit** | *Under Review* |
 
 ---
 
 ## Code
 
-The architecture-aware workload mapping and evaluation implementations associated with MAVeC are maintained as part of the **InTuiT Mapper** framework.
+The mapping algorithms, workload models, profiling tools, and evaluation framework are organized into two primary workload-mapping components.
 
 | Component | Description |
 |---|---|
 | **InTuiT GEMM** | Architecture-aware mapping and performance evaluation for GEMM workloads. |
-| **InTuiT CNN** | Architecture-aware mapping and performance evaluation for convolutional workloads. |
+| **InTuiT CNN** | Architecture-aware mapping and performance evaluation for convolutional neural-network workloads. |
 
 [**InTuiT Mapper (Private) →**](https://github.com/RownakEEE/MAVeC-Code)
 
@@ -48,4 +51,6 @@ The architecture-aware workload mapping and evaluation implementations associate
 
 ## Keywords
 
-`Computer Architecture` `AI Accelerators` `Message-Driven Computing` `Reconfigurable Computing` `Hardware–Software Co-design` `Dataflow Architecture` `Mapping & Scheduling` `Memory Hierarchy` `Performance Modeling` `FPGA/ASIC`
+`Computer Architecture` `AI Accelerators` `Neural Network Mapping`  
+`Mapping & Scheduling` `CNN Inference` `Memory-Aware Computing`  
+`Performance Modeling` `Design-Space Exploration` `Hardware–Software Co-design`
