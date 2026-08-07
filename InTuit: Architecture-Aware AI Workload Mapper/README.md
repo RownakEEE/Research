@@ -1,8 +1,6 @@
 # InTuiT: Architecture-Aware AI Workload Mapper
 
-**InTuiT** is an architecture-aware mapping, scheduling, and performance evaluation framework for neural-network workloads targeting spatial AI accelerators. The framework translates workload characteristics and hardware constraints into executable mapping strategies for efficient utilization of accelerator resources.
-
-The research spans **workload decomposition, convolution mapping, spatial and temporal scheduling, memory-aware execution, analytical performance modeling, and systematic profiling** of AI accelerator architectures.
+**InTuiT** is an architecture-aware mapping, scheduling, and performance evaluation framework for neural-network workloads targeting spatial AI accelerators. The framework translates workload characteristics and hardware constraints into executable mapping strategies for efficient utilization of accelerator resources. The research spans **workload decomposition, convolution mapping, spatial and temporal scheduling, memory-aware execution, analytical performance modeling, and systematic profiling** of AI accelerator architectures.
 
 ---
 
@@ -19,9 +17,7 @@ The research spans **workload decomposition, convolution mapping, spatial and te
 
 ## Tools & Technologies
 
-`Python` `NumPy` `AI Workload Mapping` `CNN Inference`  
-`Performance Modeling` `Mapping & Scheduling` `Memory Modeling`  
-`Design-Space Exploration` `Hardware–Software Co-design`
+`Python` `NumPy` `AI Workload Mapping` `CNN Inference` `Performance Modeling` `Mapping & Scheduling` `Memory Modeling` `Design-Space Exploration` `Hardware–Software Co-design`
 
 ---
 
@@ -51,6 +47,4 @@ The mapping algorithms, workload models, profiling tools, and evaluation framewo
 
 ## Keywords
 
-`Computer Architecture` `AI Accelerators` `Neural Network Mapping`  
-`Mapping & Scheduling` `CNN Inference` `Memory-Aware Computing`  
-`Performance Modeling` `Design-Space Exploration` `Hardware–Software Co-design`
+`Computer Architecture` `AI Accelerators` `Neural Network Mapping` `Mapping & Scheduling` `CNN Inference` `Memory-Aware Computing` `Performance Modeling` `Design-Space Exploration` `Hardware–Software Co-design`
