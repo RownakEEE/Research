@@ -1,6 +1,6 @@
 # Research
 
-Research portfolio focused on computer architecture, AI accelerators, hardware–software co-design, reconfigurable computing, and efficient hardware systems.
+Research focused on computer architecture, AI accelerators, hardware–software co-design, reconfigurable computing, and efficient hardware systems.
 
 ## Research Projects
 
@@ -18,9 +18,7 @@ Research portfolio focused on computer architecture, AI accelerators, hardware�
 
 ## Research Themes
 
-`Computer Architecture` `AI Accelerators` `Hardware–Software Co-design`  
-`Reconfigurable Computing` `Mapping & Scheduling` `Performance Modeling`  
-`FPGA/ASIC` `Hardware Security` `Low-Power Design`
+`Computer Architecture` `AI Accelerators` `Hardware–Software Co-design` `Reconfigurable Computing` `Mapping & Scheduling` `Performance Modeling` `FPGA/ASIC` `Hardware Security` `Low-Power Design`
 
 ## Code Availability
 
