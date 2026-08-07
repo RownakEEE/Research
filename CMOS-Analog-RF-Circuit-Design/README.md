@@ -1,8 +1,6 @@
 # CMOS Analog & RF Circuit Design
 
-**CMOS Analog & RF Circuit Design** explores integrated-circuit architectures and design techniques for power management, RF/millimeter-wave systems, and emerging communication and sensing applications. The research investigates circuit-level architectures, implementation techniques, and performance trade-offs across different CMOS technologies.
-
-The work spans **low-dropout voltage regulators (LDOs), low-noise amplifiers (LNAs), injection-locked frequency dividers (ILFDs), ring oscillators, RF front-end design, and circuit performance analysis** for IoT, millimeter-wave, and wireless systems.
+**CMOS Analog & RF Circuit Design** explores integrated-circuit architectures and design techniques for power management, RF/millimeter-wave systems, and emerging communication and sensing applications. The research investigates circuit-level architectures, implementation techniques, and performance trade-offs across different CMOS technologies. The work spans **low-dropout voltage regulators (LDOs), low-noise amplifiers (LNAs), injection-locked frequency dividers (ILFDs), ring oscillators, RF front-end design, and circuit performance analysis** for IoT, millimeter-wave, and wireless systems.
 
 ---
 
@@ -38,6 +36,4 @@ The work spans **low-dropout voltage regulators (LDOs), low-noise amplifiers (LN
 
 ## Keywords
 
-`CMOS` `Analog IC Design` `RFIC` `Low-Dropout Regulator`  
-`Low-Noise Amplifier` `Power Management` `RF Front-End`  
-`Ring Oscillator` `Frequency Divider` `mmWave` `IoT` `Integrated Circuits`
+`CMOS` `Analog IC Design` `RFIC` `Low-Dropout Regulator` `Low-Noise Amplifier` `Power Management` `RF Front-End` `Ring Oscillator` `Frequency Divider` `mmWave` `IoT` `Integrated Circuits`
