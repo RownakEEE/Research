@@ -1,8 +1,6 @@
 # OFFLOAD: Heterogeneous Computing & Task Offloading Framework
 
-**OFFLOAD** is an open-source, hardware-agnostic framework for distributing AI and data-intensive tasks across heterogeneous computing platforms. The framework bridges high-level software environments with diverse compute units through a unified task-offloading and hardware–software interface.
-
-The system integrates **data processing, task partitioning, shared-memory communication, and custom firmware** within a controller–worker architecture. A hardware prototype demonstrates end-to-end execution from database queries to distributed processing across heterogeneous embedded computing devices.
+**OFFLOAD** is an open-source, hardware-agnostic framework for distributing AI and data-intensive tasks across heterogeneous computing platforms. The framework bridges high-level software environments with diverse compute units through a unified task-offloading and hardware–software interface. The system integrates **data processing, task partitioning, shared-memory communication, and custom firmware** within a controller–worker architecture. A hardware prototype demonstrates end-to-end execution from database queries to distributed processing across heterogeneous embedded computing devices.
 
 ---
 
