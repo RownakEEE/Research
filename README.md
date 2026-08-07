@@ -4,12 +4,17 @@ Research portfolio focused on computer architecture, AI accelerators, hardware�
 
 ## Research Projects
 
-- **Message-Driven AI Accelerator** — Message-driven reconfigurable architecture for efficient AI workload execution.
-- **InTuit Mapper** — Architecture-aware workload mapping, scheduling, and performance evaluation framework.
-- **FPGA ECC Crypto Engine** — FPGA-based hardware acceleration for elliptic-curve cryptography.
-- **CMOS RF Front-End** — CMOS circuit design and analysis for RF transceiver front-end components.
-- **OFFLOAD** — Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
-- **Low-Power Arithmetic** — Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
+- **[Message-Driven AI Accelerator](./Message-Driven-AI-Accelerator/)** — Message-driven reconfigurable architecture for efficient AI and data-intensive workload execution.
+
+- **[InTuiT Mapper](./InTuit:%20Architecture-Aware%20AI%20Workload%20Mapper/)** — Architecture-aware AI workload mapping, scheduling, and performance evaluation framework.
+
+- **[FPGA ECC Crypto Engine](./FPGA-ECC-Crypto-Engine/)** — FPGA-based hardware acceleration for elliptic-curve cryptography.
+
+- **[Low-Power Arithmetic](./Low-Power-Arithmetic/)** — Logic-reuse and energy-efficient arithmetic architectures for vector and accelerator systems.
+
+- **[OFFLOAD](./OFFLOAD/)** — Framework for distributing data-intensive and AI workloads across heterogeneous compute units.
+
+- **[CMOS RF Front-End](./CMOS-Analog-RF-Circuit-Design/)** — CMOS circuit design and analysis for RF transceiver front-end components.
 
 ## Research Themes
 
