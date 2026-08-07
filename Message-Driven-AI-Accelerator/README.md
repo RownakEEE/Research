@@ -40,7 +40,6 @@ The MAVeC research implementation is organized into separate hardware-design, wo
 | **RTL** | RTL implementation and simulation of the MAVeC architecture. |
 | **ASIC** | ASIC synthesis, implementation, and hardware evaluation flow. |
 | **InTuiT GEMM** | Architecture-aware mapping and performance analysis for GEMM workloads. |
-| **InTuiT CNN** | Mapping, scheduling, and evaluation framework for convolutional workloads. |
 
 [**MAVeC Code Repository (Private) →**](https://github.com/RownakEEE/MAVeC-Code)
 
