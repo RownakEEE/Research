@@ -17,8 +17,7 @@
 
 ## Tools & Technologies
 
-`Python` `Apache Spark` `Apache Arrow` `MySQL` `SQL`  
-`Parquet` `JDBC` `MQTT` `TCP/IP` `SPI`  
+`Python` `Apache Spark` `Apache Arrow` `MySQL` `SQL` `Parquet` `JDBC` `MQTT` `TCP/IP` `SPI`  
 `Raspberry Pi` `NVIDIA Jetson Nano` `GPIO`  
 `Embedded Systems` `Firmware` `Heterogeneous Computing`
 
@@ -42,6 +41,4 @@ The framework implementation includes host-side software, controller and worker 
 
 ## Keywords
 
-`Heterogeneous Computing` `Hardware–Software Co-design` `Task Offloading`  
-`Distributed Computing` `Big Data` `Embedded Systems`  
-`Firmware` `Shared Memory` `AI Systems` `Edge Computing`
+`Heterogeneous Computing` `Hardware–Software Co-design` `Task Offloading` `Distributed Computing` `Big Data` `Embedded Systems` `Firmware` `Shared Memory` `AI Systems` `Edge Computing`
