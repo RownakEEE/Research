@@ -1,4 +1,4 @@
-# Low-Power Arithmetic
+# Low Power Arithmetic
 
 **Low-Power Arithmetic** explores energy-efficient arithmetic architectures for low-precision vector computing and AI accelerators. The research focuses on reducing the area and power overhead of arithmetic units while maintaining predictable and scalable hardware execution. A **precompute–reuse nibble multiplier** is developed using compact shift-and-add logic to reuse structured partial computations. The architecture provides an efficient design point between highly sequential multipliers and hardware-intensive single-cycle multiplier structures.
 
